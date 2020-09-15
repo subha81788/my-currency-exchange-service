@@ -1,4 +1,4 @@
-package org.subhashis.mycroservices.mycurrencyexchangeservice;
+package org.subhashis.mycroservices.mycurrencyexchangeservice.model;
 
 import java.math.BigDecimal;
 
